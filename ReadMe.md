@@ -26,7 +26,8 @@ Use [tgpu](tgpu.sh) to send the job.
 Use the [best](hierarchical_sports_model_20pct_penal0p8.pth) model to test on unseen data. 
 
 
-### Conclusions:
+## Conclusions:
 [Final report](<AML sports classification.pdf>)
+
 ### Others:
 [train_backup](train_backup.py) has the previous train where the superclass was high but the subclass was not. NEEDS MORE EPOCHS
